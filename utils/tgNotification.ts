@@ -1,7 +1,7 @@
 import axios, { AxiosResponse } from 'axios';
 
-const token: string = '7382012019:AAE8woS215ZH3OSQrvUEbC72rl3Iyv18f-4';
-const chatId: string = '@volume_bot_for_flux'; // or use the channel ID, e.g., '-1001234567890'
+const token: string = '00000000000000000000000';
+const chatId: string = '@volume_bot_for_flux'; // or use the channel ID, e.g., '-10012345689'
 // const message: string = 'Hello, this is a message from the bot!';
 
 interface TelegramResponse {
